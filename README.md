@@ -2,8 +2,10 @@
 
 **A sidebar for Mac that removes the friction between having a thought and writing it down.**
 
-Embar lives at the edge of your screen. You nudge it with a hotkey or the pointer, it slides in, you
-write, it slides away. Nothing to launch, no window to arrange, no file to name.
+Embar lives just beyond the right edge of your screen. Move the pointer there, or press ⌥E, and a
+panel slides out over whatever you are doing, with the cursor already waiting in the input field.
+Write the thought, move away, and you are back in your work. No window to find, no app to switch
+to, no file to name.
 
 <!-- SCREENSHOT: main panel -->
 <!-- GIF: panel sliding in, a thought being captured -->
@@ -12,43 +14,36 @@ write, it slides away. Nothing to launch, no window to arrange, no file to name.
 
 ## What it does
 
-Embar is **one pipeline, not three tabs**. A quick thought, a line you underlined while reading, and a
-fully-formed idea are not separate things - they are stages of the same flow, and the app models them
-that way.
+Embar has three surfaces, each for a different kind of thinking.
 
-### Stickies - fleeting capture
+### Stickies
 
-Write a thought in one keystroke. Colour it from the active palette, give it a deadline with a
-reminder, file it on a wall, pin it, let it auto-archive. Drag a sticky out of the panel and it
-becomes a small always-on-top note on your desktop (up to ten at a time).
+For single thoughts, caught the moment they arrive. Sort them into walls, give one a deadline or a
+reminder, pin what matters, mark things done. Drag a sticky past the edge of the panel and it
+becomes a small note on your desktop, staying right where you can see it until you are finished
+with it.
 
-### Reader - an annotation layer over what you read
+### Notes
 
-Not a book reader and not a read-later inbox. Embar never renders the source - it links to it and
-keeps *your* thinking on top of it. Entries are typed as Thought, Quote, Question, Insight or Voice
-memo. Text highlights in four fixed colours, `#tags` inline, favourites, search by text, author or
-page, photo attachments, date dividers between days.
+For longer writing. Formatting, photos, quotes and lists. Type `[[` to link one note to another,
+and every note shows where it is mentioned.
 
-### Notes - where thoughts mature
+### Reader
 
-Full notes with a title and a body, folders, pinning, photo attachments, and `[[title]]` links that
-generate backlinks automatically: every note shows where it is mentioned.
+A notebook for what you read, watch or listen to. Thoughts and quotes in one stream, highlights in
+colour, threads to group entries by chapter, and a cover and a source link for each notebook. Embar
+never opens the source itself. It keeps your thinking next to it.
 
-### The connective tissue
+### Made to stay out of the way
 
-This is the product, not a feature list:
+The panel hides when you leave and comes back when you need it. Lock it open when you want it to
+stay. Make it yours with fifteen colour palettes, four fonts and three looks: plain, glass, or
+floating islands. In English and Ukrainian.
 
-- **Sticky → Note** (`matureSticky`) - a sticky grows into a real note, and the link is kept on both sides
-- **Sticky → Todo** - the text lands on the day screen, the sticky stays where it is
-- **Reader entry → Note** - append to an existing note or start a new one
-- **Backlinks** - `[[mentions]]` resolved across the whole store
+### Your notes stay on your Mac
 
-### Also in the box
-
-A **Home** day screen (weekly ring strip, lane-packed timeline, todos, habit streaks) is fully built
-but hidden behind a feature flag in v1. Fifteen named colour palettes that repaint the whole app,
-Ukrainian and English localisation, a global hotkey (⌥E by default), and a lock mode that keeps the
-panel open while you work.
+No account, no sign-in, no analytics. Everything you write is stored locally, in the app's own
+container, and nothing is uploaded.
 
 ---
 
@@ -72,7 +67,7 @@ code generation.
 ```
 Embar/
   Shell/         NSPanel controller, hotkey, desktop sticky windows, sandbox environment
-  Features/      Stickies · Reader · Notes · Home · Settings · Onboarding · Paywall
+  Features/      Stickies · Reader · Notes · Settings · Onboarding · Paywall · Home (not shipped in v1)
   Models/        14 @Model types - one SwiftData store shared by every surface
   Theme/         palette + material system (colours, typography, motion tokens)
   Components/    shared controls, so the same affordance looks identical everywhere
@@ -141,8 +136,8 @@ for the app's own settings and system boot time for a click debounce.
 Xcode 26.2 with the Swift 5 language mode and `MainActor` default isolation.
 
 ```bash
-git clone https://github.com/<you>/Embar.git
-cd Embar
+git clone https://github.com/solomiyanech11-afk/embar-app.git
+cd embar-app
 open Embar.xcodeproj
 ```
 
@@ -171,17 +166,15 @@ RevenueCat app and API key (`ProProducts.revenueCatAPIKey`), your own product id
 StoreKit sandbox tester account - purchases in a development build are charged to nothing and appear
 under the sandbox Apple Account, never a real one.
 
-Everything else - all three surfaces, the links between them, the panel, the palettes - runs with no
-setup at all, because the trial opens on first launch and nothing gates it.
+Everything else - all three surfaces, the panel, the palettes - runs with no setup at all, because
+the trial opens on first launch and nothing gates it.
 
 ---
 
 ## Project status
 
-Embar is live product code, not a demo. Milestones 1 through 5 are shipped: the panel shell,
-Stickies, Home, Notes and Reader, plus onboarding, settings, localisation, desktop sticky widgets and
-the paywall. Current work is polish and the Milestone 6 backlog - iCloud sync, dark mode and Liquid
-Glass, and the parked material-theme experiment.
+Embar is live product code, not a demo. Stickies, Notes, Reader, desktop stickies, onboarding,
+settings, localisation and the paywall are done. iCloud sync and dark mode are in progress.
 
 The product and implementation specs, the test plan and the design research stay in a private
 repository - they are written in Ukrainian and read as a working diary rather than documentation.
