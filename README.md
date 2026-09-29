@@ -37,8 +37,7 @@ never opens the source itself. It keeps your thinking next to it.
 ### Made to stay out of the way
 
 The panel hides when you leave and comes back when you need it. Lock it open when you want it to
-stay. Make it yours with fifteen colour palettes, four fonts and three looks: plain, glass, or
-floating islands. In English and Ukrainian.
+stay. Make it yours with fifteen colour palettes. In English and Ukrainian.
 
 ### Your notes stay on your Mac
 
