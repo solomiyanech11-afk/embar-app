@@ -1,0 +1,5486 @@
+{
+  "sourceLanguage" : "uk",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    " app, built for " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " app, built for "
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " застосунок, зроблений для "
+          }
+        }
+      }
+    },
+    "- чия цитата (опційно)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- whose quote (optional)"
+          }
+        }
+      }
+    },
+    ":" : {
+
+    },
+    "?" : {
+      "shouldTranslate" : false
+    },
+    "…" : {
+      "shouldTranslate" : false
+    },
+    "· зі стікера" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "· from a sticky"
+          }
+        }
+      }
+    },
+    "›" : {
+      "shouldTranslate" : false
+    },
+    "“%@”" : {
+      "shouldTranslate" : false
+    },
+    "«%@»" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“%@”"
+          }
+        }
+      }
+    },
+    "*Ця нотатка звичайна, видали її, коли прочитаєш." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*This note is a regular one, delete it once you've read it."
+          }
+        }
+      }
+    },
+    "/міс" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/mo"
+          }
+        }
+      }
+    },
+    "#%@" : {
+      "shouldTranslate" : false
+    },
+    "#теги в тексті запису" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "#tags inside an entry"
+          }
+        }
+      }
+    },
+    "#теги стають кольоровими чіпами" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "#tags become colored chips"
+          }
+        }
+      }
+    },
+    "%@ - скоро" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - coming soon"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "shouldTranslate" : false
+    },
+    "%lld дн. тому" : {
+      "comment" : "Мета-рядок нотатки: скільки днів тому змінено",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day ago"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days ago"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld днів тому" : {
+      "comment" : "Дата на картці стіка: скільки днів тому створено",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day ago"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days ago"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld дні тому"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld днів тому"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld день тому"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld днів тому"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld хв тому" : {
+      "comment" : "Мета-рядок нотатки: скільки хвилин тому змінено",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld min ago"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+      "shouldTranslate" : false
+    },
+    "+ %@" : {
+
+    },
+    "+ Нова нотатка" : {
+      "comment" : "Опція у попапі «У нотатку» — створити нову",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+ New note"
+          }
+        }
+      }
+    },
+    "+ Новий блокнот" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+ New notebook"
+          }
+        }
+      }
+    },
+    "＋ подія" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "＋ event"
+          }
+        }
+      }
+    },
+    "＋ Створити «%@»" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "＋ Create “%@”"
+          }
+        }
+      }
+    },
+    "＋ створити новий" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "＋ create a new one"
+          }
+        }
+      }
+    },
+    "+ тег" : {
+      "comment" : "Кнопка додати тег до тудушки",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+ tag"
+          }
+        }
+      }
+    },
+    "⌥E можна змінити: Налаштування → Доступ → «змінити комбінацію»." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌥E can be changed: Settings → Access → \"change the combination\"."
+          }
+        }
+      }
+    },
+    "▾" : {
+      "shouldTranslate" : false
+    },
+    "✓" : {
+      "shouldTranslate" : false
+    },
+    "📌" : {
+      "shouldTranslate" : false
+    },
+    "🔥 %lld" : {
+      "shouldTranslate" : false
+    },
+    "1 тиждень" : {
+      "comment" : "Строк автоархіву стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 week"
+          }
+        }
+      }
+    },
+    "3 місяці" : {
+      "comment" : "Строк автоархіву стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3 months"
+          }
+        }
+      }
+    },
+    "14 днів разом пролетіли швидко. Далі за одну каву на місяць або одну оплату назавжди." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "14 days together went by fast. From here, it's one coffee a month or one payment forever."
+          }
+        }
+      }
+    },
+    "Aa" : {
+      "shouldTranslate" : false
+    },
+    "App Settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Settings"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування застосунку"
+          }
+        }
+      }
+    },
+    "Community" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Community"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "спільноти"
+          }
+        }
+      }
+    },
+    "Discord" : {
+      "shouldTranslate" : false
+    },
+    "Embar - always there, always for you" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Embar - always there, always for you"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Embar - завжди поруч, завжди для тебе"
+          }
+        }
+      }
+    },
+    "Embar Pro активний. Дякую за підтримку." : {
+      "comment" : "Екран пейвола для того, хто вже має Pro",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Embar Pro is active. Thank you for your support."
+          }
+        }
+      }
+    },
+    "Embar Pro активовано. Тепер створюйте скільки заманеться." : {
+      "comment" : "Екран подяки після покупки: підзаголовок",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Embar Pro is active. Create as much as you like."
+          }
+        }
+      }
+    },
+    "Embar не має доступу до мікрофона" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Embar can’t reach the microphone"
+          }
+        }
+      }
+    },
+    "English" : {
+      "shouldTranslate" : false
+    },
+    "filter.reader.questions" : {
+      "comment" : "Чіп фільтра типів записів рідера (множина)",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questions"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Питання"
+          }
+        }
+      }
+    },
+    "fonts" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "fonts"
+          }
+        }
+      }
+    },
+    "Gems" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gems"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "перлини"
+          }
+        }
+      }
+    },
+    "Get to know what interesting features Embar offers." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get to know what interesting features Embar offers."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дізнайся, що цікавого Embar уміє."
+          }
+        }
+      }
+    },
+    "Hey" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hey"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привіт"
+          }
+        }
+      }
+    },
+    "Hey, " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hey, "
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привіт, "
+          }
+        }
+      }
+    },
+    "Hidden " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hidden "
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приховані "
+          }
+        }
+      }
+    },
+    "Hidden Gems" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hidden Gems"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приховані перлини"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "Instagram" : {
+      "shouldTranslate" : false
+    },
+    "Inter · default" : {
+      "shouldTranslate" : false
+    },
+    "Join our " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join our "
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Долучайся до "
+          }
+        }
+      }
+    },
+    "Join the community of likeminded, creative, organized people." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join the community of likeminded, creative, organized people."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приєднуйся до спільноти близьких за духом, творчих, зібраних людей."
+          }
+        }
+      }
+    },
+    "L" : {
+      "shouldTranslate" : false
+    },
+    "M" : {
+      "shouldTranslate" : false
+    },
+    "Mono · code" : {
+      "shouldTranslate" : false
+    },
+    "Newsletter" : {
+      "shouldTranslate" : false
+    },
+    "quote.type.insight" : {
+      "comment" : "Підпис під цитатою в нотатці — тип запису",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "insight"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "інсайт"
+          }
+        }
+      }
+    },
+    "quote.type.question" : {
+      "comment" : "Підпис під цитатою в нотатці — тип запису",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "question"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "питання"
+          }
+        }
+      }
+    },
+    "quote.type.thought" : {
+      "comment" : "Підпис під цитатою в нотатці — тип запису",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "thought"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "думка"
+          }
+        }
+      }
+    },
+    "quote.type.voice" : {
+      "comment" : "Підпис під цитатою в нотатці — тип запису",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "voice note"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "голосове"
+          }
+        }
+      }
+    },
+    "S" : {
+      "shouldTranslate" : false
+    },
+    "Serif · warm" : {
+      "shouldTranslate" : false
+    },
+    "Shaped to fit your workflow. If something feels off, let us know - we'll make it bend." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shaped to fit your workflow. If something feels off, let us know - we'll make it bend."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підлаштований під те, як ти працюєш. Якщо щось муляє - скажи, і він зігнеться."
+          }
+        }
+      }
+    },
+    "Thread групує записи" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thread groups entries"
+          }
+        }
+      }
+    },
+    "toast.action.undo" : {
+      "comment" : "Кнопка в undo-тості: повернути щойно видалене",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Скасувати"
+          }
+        }
+      }
+    },
+    "undo.reader.addEntry" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "adding the entry"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "додавання запису"
+          }
+        }
+      }
+    },
+    "undo.reader.addFavorite" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "adding to favorites"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "додати в обрані"
+          }
+        }
+      }
+    },
+    "undo.reader.cropPhoto" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cropping the photo"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "обрізання фото"
+          }
+        }
+      }
+    },
+    "undo.reader.deleteCover" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "removing the cover"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "видалення обкладинки"
+          }
+        }
+      }
+    },
+    "undo.reader.deleteEntry" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "deleting the entry"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "видалення запису"
+          }
+        }
+      }
+    },
+    "undo.reader.editEntry" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "the edit"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "редагування"
+          }
+        }
+      }
+    },
+    "undo.reader.highlight" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "the highlight"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "хайлайт"
+          }
+        }
+      }
+    },
+    "undo.reader.removeFavorite" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "removing from favorites"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "прибрати з обраних"
+          }
+        }
+      }
+    },
+    "undo.reader.removeHighlight" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "removing the highlight"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "прибрати хайлайт"
+          }
+        }
+      }
+    },
+    "undo.reader.removeUnderline" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "removing the underline"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "прибрати підкреслення"
+          }
+        }
+      }
+    },
+    "undo.reader.underline" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "the underline"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "підкреслення"
+          }
+        }
+      }
+    },
+    "undo.reader.voiceEntry" : {
+      "comment" : "Вставка в тост «Скасовано: …»",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "the voice note"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "голосовий запис"
+          }
+        }
+      }
+    },
+    "X" : {
+      "shouldTranslate" : false
+    },
+    "YOU" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YOU"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ТЕБЕ"
+          }
+        }
+      }
+    },
+    "YOUR" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YOUR"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ТВІЙ"
+          }
+        }
+      }
+    },
+    "А це цитата. У неї є поле автора і своя типографіка." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "And this is a quote. It has an author field and its own typography."
+          }
+        }
+      }
+    },
+    "Аа" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aa"
+          }
+        }
+      }
+    },
+    "Абзац" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Body"
+          }
+        }
+      }
+    },
+    "або %@ з клавіатури" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "or %@ from the keyboard"
+          }
+        }
+      }
+    },
+    "Або лишіть відгук у браузері ›" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Or leave feedback in your browser ›"
+          }
+        }
+      }
+    },
+    "Автоархів" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto-archive"
+          }
+        }
+      }
+    },
+    "Активовано. Дякуємо за підтримку!" : {
+      "comment" : "Картка Embar Pro в налаштуваннях: стан pro",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Active. Thank you for your support!"
+          }
+        }
+      }
+    },
+    "Акцент картки в кружечках зверху, колір тексту й маркер - у тулбарі." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A card accent in the circles on top, text color and the highlighter in the toolbar."
+          }
+        }
+      }
+    },
+    "Архів" : {
+      "comment" : "Чіп фільтра стіків",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archive"
+          }
+        }
+      }
+    },
+    "Без назви" : {
+      "comment" : "Титул чіпа-згадки для нотатки без назви",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untitled"
+          }
+        }
+      }
+    },
+    "Без папки" : {
+      "comment" : "Опція «без папки» у виборі папки",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No folder"
+          }
+        }
+      }
+    },
+    "Без стіни" : {
+      "comment" : "Опція вибору стіни — жодної",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No wall"
+          }
+        }
+      }
+    },
+    "Без тегу" : {
+      "comment" : "Опція у виборі тега — без тега",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No tag"
+          }
+        }
+      }
+    },
+    "Білий" : {
+      "comment" : "Назва фону панелі",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "White"
+          }
+        }
+      }
+    },
+    "Більше типів записів" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More entry types"
+          }
+        }
+      }
+    },
+    "Блокнот видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notebook deleted"
+          }
+        }
+      }
+    },
+    "Будемо дуже вдячні за будь-який коментар або пропозицію для покращення." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We’d be grateful for any comment or idea that would make this better."
+          }
+        }
+      }
+    },
+    "будь-який стікер можна перетворити на нотатку - відкрий його і натисни іконку документа у верхньому куті картки." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "any sticky can grow into a note - open it and tap the document icon in the top corner of the card."
+          }
+        }
+      }
+    },
+    "Ваш відгук нам важливий" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your thoughts matter to us"
+          }
+        }
+      }
+    },
+    "Великий" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Large"
+          }
+        }
+      }
+    },
+    "Вивчаєш щось цікаве?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learning something interesting?"
+          }
+        }
+      }
+    },
+    "Видалити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "Видалити нотатку" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete note"
+          }
+        }
+      }
+    },
+    "Видалити папку «%@»?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete the “%@” folder?"
+          }
+        }
+      }
+    },
+    "Видалити стіну «%@»" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete the “%@” wall"
+          }
+        }
+      }
+    },
+    "Видалити стіну «%@»?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete the “%@” wall?"
+          }
+        }
+      }
+    },
+    "Видалити фото" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete photo"
+          }
+        }
+      }
+    },
+    "Виклик при наведенні" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open on hover"
+          }
+        }
+      }
+    },
+    "Виклик через шорткат" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open with a shortcut"
+          }
+        }
+      }
+    },
+    "Виконані" : {
+      "comment" : "Чіп фільтра стіків",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "Виконані йдуть в архів самі" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done stickies archive themselves"
+          }
+        }
+      }
+    },
+    "Виконані стікери їдуть в архів через вказаний час." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finished stickies move to the archive after this long."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виконані стікери їдуть в архів через вказаний час."
+          }
+        }
+      }
+    },
+    "Виконані стіки не можна редагувати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done stickies can't be edited"
+          }
+        }
+      }
+    },
+    "Виконано" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "Вище є Нотатки й Рідер для довших думок. Заглянь, як матимеш час." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can find Notes and Reader above, for longer thoughts. Look in when you have time."
+          }
+        }
+      }
+    },
+    "Відкласти на 10 хв" : {
+      "comment" : "Кнопка на сповіщенні про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snooze 10 min"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкласти на 10 хв"
+          }
+        }
+      }
+    },
+    "Відкрий стік і натисни документ у панелі під карткою. Текст переїде, стік залишиться." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open a sticky and tap the document in the bar below the card. The text moves over, the sticky stays."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрий стік і натисни документ у панелі під карткою. Текст переїде, стік залишиться."
+          }
+        }
+      }
+    },
+    "Відкрити" : {
+      "comment" : "Кнопка, що веде в системні параметри сповіщень",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити"
+          }
+        }
+      }
+    },
+    "Відкрити налаштування" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        }
+      }
+    },
+    "Відновити покупки" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore Purchases"
+          }
+        }
+      }
+    },
+    "Візьми край і потягни. Ширину застосунок запамʼятає до наступного разу." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grab the edge and pull. The width is remembered for next time."
+          }
+        }
+      }
+    },
+    "Вітаю\nв Embar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome\nto Embar"
+          }
+        }
+      }
+    },
+    "Вони покажуть решту. Це звичайні стіки - виконуй, видаляй, переписуй." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "They'll show you the rest. They're ordinary stickies - mark them done, delete them, rewrite them."
+          }
+        }
+      }
+    },
+    "Все залишиться тут." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything stays here."
+          }
+        }
+      }
+    },
+    "Всі" : {
+      "comment" : "Тека каруселі тудушок — усі\nЧіп папки — усі блокноти\nЧіп папки — усі нотатки\nЧіп стіни — усі стіки\nЧіп фільтра стіків\nЧіп фільтра типів записів рідера",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "Всі звички на сьогодні виконано" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All habits done for today"
+          }
+        }
+      }
+    },
+    "вчора" : {
+      "comment" : "Дата на картці стіка\nДата-роздільник у стрічці рідера\nМета-рядок нотатки: змінено вчора",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "yesterday"
+          }
+        }
+      }
+    },
+    "Головний трюк: напиши [[ і вибери іншу нотатку. Зʼявиться звʼязок, і внизу тієї нотатки буде видно, хто її згадує. Так думки повʼязуються між собою." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The main trick: type [[ and pick another note. A link appears, and that note will show who mentions it at the bottom. That's how thoughts link to each other."
+          }
+        }
+      }
+    },
+    "Далі" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "Дедлайн" : {
+      "comment" : "Чіп фільтра стіків",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deadline"
+          }
+        }
+      }
+    },
+    "Дедлайн сам нагадає" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deadlines remind you"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дедлайн сам нагадає"
+          }
+        }
+      }
+    },
+    "День минув - лише перегляд" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The day has passed - view only"
+          }
+        }
+      }
+    },
+    "Дізнатись більше" : {
+      "comment" : "Кнопка тосту режиму читання: відкриває пейвол",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn more"
+          }
+        }
+      }
+    },
+    "До активних стіків" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back to active stickies"
+          }
+        }
+      }
+    },
+    "До зробити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To do"
+          }
+        }
+      }
+    },
+    "Додано в «%@»" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Added to “%@”"
+          }
+        }
+      }
+    },
+    "Додати" : {
+      "comment" : "Кнопка підтвердження у системному вікні вибору фото",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "Додати в обрані" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to favorites"
+          }
+        }
+      }
+    },
+    "Додати дедлайн" : {
+      "comment" : "Кнопка у розгорнутому стіку, коли дедлайну ще нема",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a deadline"
+          }
+        }
+      }
+    },
+    "Додати деталі…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add details…"
+          }
+        }
+      }
+    },
+    "Додати посилання на джерело..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a link to the source..."
+          }
+        }
+      }
+    },
+    "Додаткові деталі…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More details…"
+          }
+        }
+      }
+    },
+    "Додаткові типи" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extra types"
+          }
+        }
+      }
+    },
+    "Долучайся" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Join in"
+          }
+        }
+      }
+    },
+    "Доступ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Access"
+          }
+        }
+      }
+    },
+    "Дрібний" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small"
+          }
+        }
+      }
+    },
+    "Думка" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thought"
+          }
+        }
+      }
+    },
+    "Думка й Цитата є завжди; Питання та Інсайт вмикаються в налаштуваннях Рідера." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thought and Quote are always there; Question and Insight switch on in the Reader settings."
+          }
+        }
+      }
+    },
+    "Думка…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A thought…"
+          }
+        }
+      }
+    },
+    "Думки" : {
+      "comment" : "Чіп фільтра типів записів рідера",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thoughts"
+          }
+        }
+      }
+    },
+    "Дякую." : {
+      "comment" : "Екран подяки після покупки: великий заголовок",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you."
+          }
+        }
+      }
+    },
+    "Емоджі-теги" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji tags"
+          }
+        }
+      }
+    },
+    "з читання" : {
+      "comment" : "Звідки взялась нотатка — мета-рядок картки",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "from reading"
+          }
+        }
+      }
+    },
+    "Зʼявиться звʼязок, а внизу тієї нотатки - хто її згадує." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A link appears, and that note shows who mentions it at the bottom."
+          }
+        }
+      }
+    },
+    "За 5 хв" : {
+      "comment" : "Коли нагадати про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5 min before"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За 5 хв"
+          }
+        }
+      }
+    },
+    "За 14 днів тут зʼявилось %lld ваших думок. Щоб вони зʼявлялись далі, оберіть план: одна кава на місяць або одна оплата назавжди." : {
+      "comment" : "Пейвол: підзаголовок, trial минув, думок багато; думка/думки/думок у каталозі",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In 14 days, %lld of your thoughts landed here. To keep them coming, choose a plan: one coffee a month or one payment forever."
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "За 14 днів тут зʼявились %lld ваші думки. Щоб вони зʼявлялись далі, оберіть план: одна кава на місяць або одна оплата назавжди."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "За 14 днів тут зʼявилось %lld ваших думок. Щоб вони зʼявлялись далі, оберіть план: одна кава на місяць або одна оплата назавжди."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "За 14 днів тут зʼявилась %lld ваша думка. Щоб вони зʼявлялись далі, оберіть план: одна кава на місяць або одна оплата назавжди."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "За 14 днів тут зʼявилось %lld ваших думок. Щоб вони зʼявлялись далі, оберіть план: одна кава на місяць або одна оплата назавжди."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "За 30 хв" : {
+      "comment" : "Коли нагадати про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 min before"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За 30 хв"
+          }
+        }
+      }
+    },
+    "За годину" : {
+      "comment" : "Коли нагадати про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 hour before"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За годину"
+          }
+        }
+      }
+    },
+    "За день" : {
+      "comment" : "Коли нагадати про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 day before"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За день"
+          }
+        }
+      }
+    },
+    "Завтра" : {
+      "comment" : "Швидкий вибір дедлайну стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomorrow"
+          }
+        }
+      }
+    },
+    "Загальне" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        }
+      }
+    },
+    "Загальні" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        }
+      }
+    },
+    "Загальні налаштування" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General settings"
+          }
+        }
+      }
+    },
+    "Заголовок 1" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heading 1"
+          }
+        }
+      }
+    },
+    "Заголовок 2" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heading 2"
+          }
+        }
+      }
+    },
+    "Закрити" : {
+      "comment" : "Кнопка на сповіщенні про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закрити"
+          }
+        }
+      }
+    },
+    "Закрити - для цього [[ більше не пропонувати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close - don't suggest for this [[ again"
+          }
+        }
+      }
+    },
+    "Закріпити панель" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep the panel open"
+          }
+        }
+      }
+    },
+    "Залишити їх поки що" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep them for now"
+          }
+        }
+      }
+    },
+    "Замінити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace"
+          }
+        }
+      }
+    },
+    "Замінити на нове" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace with a new one"
+          }
+        }
+      }
+    },
+    "Замочок у хедері" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The lock in the header"
+          }
+        }
+      }
+    },
+    "Запис видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry deleted"
+          }
+        }
+      }
+    },
+    "Запис стає нотаткою" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An entry becomes a note"
+          }
+        }
+      }
+    },
+    "Записи" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entries"
+          }
+        }
+      }
+    },
+    "Запроси близьких чи команду - додавайте, редагуйте і закривайте стікери разом, на одній стіні." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invite the people close to you, or your team - add, edit and close stickies together on one wall."
+          }
+        }
+      }
+    },
+    "Застосовано ✓" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Applied ✓"
+          }
+        }
+      }
+    },
+    "Затисни мене і потягни за край панелі. Залишусь на робочому столі." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hold me and drag me past the panel's edge and I'll stay on your desktop."
+          }
+        }
+      }
+    },
+    "Зачекайте…" : {
+      "comment" : "Підпис кнопки покупки під час очікування відповіді StoreKit",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just a moment…"
+          }
+        }
+      }
+    },
+    "Зберегти" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "Звичайна" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plain"
+          }
+        }
+      }
+    },
+    "Звичайний" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal"
+          }
+        }
+      }
+    },
+    "Звички" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Habits"
+          }
+        }
+      }
+    },
+    "Звички - маленькі щоденні ритуали." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Habits are small daily rituals."
+          }
+        }
+      }
+    },
+    "Звичку видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Habit deleted"
+          }
+        }
+      }
+    },
+    "ЗГАДАТИ НОТАТКУ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MENTION A NOTE"
+          }
+        }
+      }
+    },
+    "зі стікера" : {
+      "comment" : "Звідки взялась нотатка — мета-рядок картки",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "from a sticky"
+          }
+        }
+      }
+    },
+    "Змінити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change"
+          }
+        }
+      }
+    },
+    "Змінити або скасувати - в App Store" : {
+      "comment" : "Підзаголовок рядка керування підпискою",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change or cancel - in the App Store"
+          }
+        }
+      }
+    },
+    "змінити комбінацію" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "change the combination"
+          }
+        }
+      }
+    },
+    "Знайти блокнот..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find a notebook..."
+          }
+        }
+      }
+    },
+    "Знайти в записах... або дата (18.07)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search entries... or a date (07/18)"
+          }
+        }
+      }
+    },
+    "Знайти нотатку..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find a note..."
+          }
+        }
+      }
+    },
+    "Зробити за замовчуванням" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make default"
+          }
+        }
+      }
+    },
+    "Зроблено однією людиною. Ваша оплата і є підтримка." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made by one person. Your purchase is the support."
+          }
+        }
+      }
+    },
+    "Зупинити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop"
+          }
+        }
+      }
+    },
+    "Іконка документа на записі: у нову нотатку або в одну з останніх." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The document icon on an entry: into a new note or one of the recent ones."
+          }
+        }
+      }
+    },
+    "Інсайт" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insight"
+          }
+        }
+      }
+    },
+    "Інсайт або висновок…" : {
+      "comment" : "Плейсхолдер композера рідера — інсайт",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An insight or a conclusion…"
+          }
+        }
+      }
+    },
+    "Інсайти" : {
+      "comment" : "Чіп фільтра типів записів рідера",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insights"
+          }
+        }
+      }
+    },
+    "Інтервал між рядками" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Line spacing"
+          }
+        }
+      }
+    },
+    "Кастомізуй усе. Налаштування стіни стіків внизу, загальні вгорі. Там же й hidden gems, палітри і багато цікавого." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Customize everything. The sticky wall's settings are at the bottom, the general ones on top. That's where Hidden Gems, palettes and plenty more live."
+          }
+        }
+      }
+    },
+    "Керувати підпискою" : {
+      "comment" : "Рядок під карткою Embar Pro при активній місячній",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage subscription"
+          }
+        }
+      }
+    },
+    "Кінець має бути пізніше за початок" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The end has to come after the start"
+          }
+        }
+      }
+    },
+    "Клік по назві теми продовжує її - нові записи знову йдуть у це русло, поки не зупиниш. Подвійний клік - перейменувати." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click a thread’s name to pick it up again - new entries flow back into it until you stop. Double-click to rename."
+          }
+        }
+      }
+    },
+    "Клік по трикутнику згортає записи теми, подвійний клік - усі теми блокнота разом." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click the triangle to fold a thread; double-click folds every thread in the notebook at once."
+          }
+        }
+      }
+    },
+    "Кнопка «Тема» зверху групує записи: увімкни тему, і все нове писатиметься під неї. Вимкни, коли розділ закінчився." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The \"Thread\" button on top groups entries: turn a thread on and everything new lands under it. Turn it off when the chapter is over."
+          }
+        }
+      }
+    },
+    "Кнопка «Тема» починає нове русло - все, що пишеш, лягає під його заголовок. Повторне натискання завершує тему." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The “Thread” button opens a new current - everything you write settles under its heading. Tap again to close the thread."
+          }
+        }
+      }
+    },
+    "Колір" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color"
+          }
+        }
+      }
+    },
+    "Колір стіка" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticky color"
+          }
+        }
+      }
+    },
+    "Колір стікерів, що не належать жодній стіні" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color for stickies that belong to no wall"
+          }
+        }
+      }
+    },
+    "Колір:" : {
+      "comment" : "Курсивний початок пункту в навчальній нотатці",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color:"
+          }
+        }
+      }
+    },
+    "Колір: акцент картки, колір тексту й маркер." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color: a card accent, text color and the highlighter."
+          }
+        }
+      }
+    },
+    "Кольори стікерів" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticky colors"
+          }
+        }
+      }
+    },
+    "Кольори стіків" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticky colors"
+          }
+        }
+      }
+    },
+    "Левітація" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Levitation"
+          }
+        }
+      }
+    },
+    "Лише папку - блокноти залишаться" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just the folder - notebooks stay"
+          }
+        }
+      }
+    },
+    "Лише папку - нотатки залишаться" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just the folder - notes stay"
+          }
+        }
+      }
+    },
+    "Лише стіну - стіки залишаться" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just the wall - stickies stay"
+          }
+        }
+      }
+    },
+    "Лишилось %lld дн. пробного періоду" : {
+      "comment" : "Пігулка в шапці пейвола; день/дні/днів у каталозі",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day left in your trial"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days left in your trial"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишились %lld дні пробного періоду"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишилось %lld днів пробного періоду"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишився %lld день пробного періоду"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Лишилось %lld днів пробного періоду"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Максимум %lld стіків на столі" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "At most %lld sticky on the desktop"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "At most %lld stickies on the desktop"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Максимум %lld стіки на столі"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Максимум %lld стіків на столі"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Максимум %lld стік на столі"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Максимум %lld стіків на столі"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Максимум 50 символів" : {
+      "comment" : "Пігулка при спробі ввести довшу назву папки/стіни",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximum 50 characters"
+          }
+        }
+      }
+    },
+    "Маленький" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small"
+          }
+        }
+      }
+    },
+    "Мета-рядок" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meta line"
+          }
+        }
+      }
+    },
+    "Місце для збереження твоїх думок, перш ніж вони погаснуть." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A place to keep your thoughts before they fade."
+          }
+        }
+      }
+    },
+    "Місяць" : {
+      "comment" : "Строк автоархіву стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 month"
+          }
+        }
+      }
+    },
+    "Місячна підписка поновлюється автоматично, доки ви не скасуєте її в налаштуваннях App Store." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The monthly subscription renews automatically until you cancel it in your App Store settings."
+          }
+        }
+      }
+    },
+    "мова" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "language"
+          }
+        }
+      }
+    },
+    "Мова зміниться після перезапуску" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The language changes after a restart"
+          }
+        }
+      }
+    },
+    "Мушля" : {
+      "comment" : "Назва фону панелі",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shell"
+          }
+        }
+      }
+    },
+    "На стіні тебе вже чекають навчальні стіки." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some learning stickies are already waiting on your wall."
+          }
+        }
+      }
+    },
+    "Наведи курсор на правий край екрана - панель Embar висунеться сама." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move your cursor to the right edge of the screen - the Embar panel slides out on its own."
+          }
+        }
+      }
+    },
+    "Навчальні стіки прибрано" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learning stickies removed"
+          }
+        }
+      }
+    },
+    "Нагадати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remind"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нагадати"
+          }
+        }
+      }
+    },
+    "Нагадаю %@" : {
+      "comment" : "Пігулка після закриття острівця нагадування: дата й час",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reminder set for %@"
+          }
+        }
+      }
+    },
+    "Нагадування" : {
+      "comment" : "Заголовок рядка про системний стиль сповіщень",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reminders"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нагадування"
+          }
+        }
+      }
+    },
+    "Нагадування не прийде: сповіщення вимкнені" : {
+      "comment" : "Рядок у тулбарі дедлайна: нагадування стоїть, а дозвіл відкликали (F6)",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The reminder will not arrive: notifications are off"
+          }
+        }
+      }
+    },
+    "Нагадування:" : {
+      "comment" : "Префікс заголовка сповіщення про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reminder:"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нагадування:"
+          }
+        }
+      }
+    },
+    "Назавжди" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lifetime"
+          }
+        }
+      }
+    },
+    "Назавжди за %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Lifetime for %@"
+          }
+        }
+      }
+    },
+    "Назад" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "Назва блокнота..." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notebook title..."
+          }
+        }
+      }
+    },
+    "Назва події…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Event name…"
+          }
+        }
+      }
+    },
+    "Назва стіни" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wall name"
+          }
+        }
+      }
+    },
+    "Назва тега" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag name"
+          }
+        }
+      }
+    },
+    "Назва теми…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thread name…"
+          }
+        }
+      }
+    },
+    "Назва..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title..."
+          }
+        }
+      }
+    },
+    "Найкращий вибір" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Best value"
+          }
+        }
+      }
+    },
+    "Налаштування" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "Налаштування (повзунки внизу) міняють шрифт записів, хештеги, рядок джерела й додаткові типи.\n\nЦей блокнот звичайний: видали його, коли роздивишся." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The settings (the sliders below) change the entry font, hashtags, the source row and the extra types.\n\nThis notebook is a regular one, delete it once you've looked around."
+          }
+        }
+      }
+    },
+    "Налаштування нотатки" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note settings"
+          }
+        }
+      }
+    },
+    "Налаштування цієї стіни" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings for this wall"
+          }
+        }
+      }
+    },
+    "Напиши [[ і обери нотатку" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type [[ and pick a note"
+          }
+        }
+      }
+    },
+    "Напиши першу думку, щоб не загубити." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write your first thought so it doesn't get lost."
+          }
+        }
+      }
+    },
+    "Натисни %@ - і панель Embar висунеться з правого краю." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press %@ and the Embar panel slides out from the right edge."
+          }
+        }
+      }
+    },
+    "Натисни ✓, коли зробиш. Стік опуститься вниз, а потім архівується (Строк є у налаштуваннях стіни внизу)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap ✓ when it's done. The sticky will drop down and then be archived (the term is in the wall settings below)"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Натисни ✓, коли зробиш. Стік опуститься вниз, а потім архівується (Строк є у налаштуваннях стіни внизу)"
+          }
+        }
+      }
+    },
+    "Натисни на мене. Можна додати більше тексту, дедлайн, папку і так далі." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap me. You can add more text, a deadline, a folder and more."
+          }
+        }
+      }
+    },
+    "Натисни нову комбінацію з ⌘/⌥/⌃ (Esc - скасувати)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press a new combination with ⌘/⌥/⌃ (Esc to cancel)"
+          }
+        }
+      }
+    },
+    "Натхнення, скріни, маленькі історії." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inspiration, screenshots, small stories."
+          }
+        }
+      }
+    },
+    "Не бачиш вікна вибору фото? Воно чекає на робочому екрані" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don’t see the photo picker? It’s waiting on your desktop"
+          }
+        }
+      }
+    },
+    "Не вдалося завантажити ціни. Перевірте інтернет і спробуйте ще раз." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't load prices. Check your connection and try again."
+          }
+        }
+      }
+    },
+    "Не нагадувати" : {
+      "comment" : "Дедлайн без сповіщення",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No reminder"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не нагадувати"
+          }
+        }
+      }
+    },
+    "Непрозорість «молока» панелі" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How milky the panel glass is"
+          }
+        }
+      }
+    },
+    "Ні, лишити і більше не питати" : {
+      "comment" : "Тултип на виборі «прибрати навчальні стіки»",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No, keep them and don't ask again"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ні, лишити і більше не питати"
+          }
+        }
+      }
+    },
+    "Нічого не знайдено." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing found."
+          }
+        }
+      }
+    },
+    "Нічого скасовувати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing to undo"
+          }
+        }
+      }
+    },
+    "нова - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "new - %@"
+          }
+        }
+      }
+    },
+    "нова звичка" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "new habit"
+          }
+        }
+      }
+    },
+    "нова звичка…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "new habit…"
+          }
+        }
+      }
+    },
+    "Нова нотатка..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New note..."
+          }
+        }
+      }
+    },
+    "Нова папка" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New folder"
+          }
+        }
+      }
+    },
+    "Нова папка..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New folder..."
+          }
+        }
+      }
+    },
+    "Нова стіна" : {
+      "comment" : "Чіп створення стіни в острівці стін",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New wall"
+          }
+        }
+      }
+    },
+    "нова тудушка" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "new to-do"
+          }
+        }
+      }
+    },
+    "нова тудушка…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "new to-do…"
+          }
+        }
+      }
+    },
+    "Новий блокнот" : {
+      "comment" : "Назва-заповнювач щойно створеного блокнота рідера",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New notebook"
+          }
+        }
+      }
+    },
+    "Нотатки" : {
+      "comment" : "Хлібна крихта — корінь, список нотаток",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notes"
+          }
+        }
+      }
+    },
+    "Нотатки для думок, які довші за стік." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notes are for thoughts that outgrow a sticky."
+          }
+        }
+      }
+    },
+    "Нотатку вже видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That note is already gone"
+          }
+        }
+      }
+    },
+    "Нотатку видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note deleted"
+          }
+        }
+      }
+    },
+    "Нотаток ще немає." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No notes yet."
+          }
+        }
+      }
+    },
+    "Нотатці можна дати колір" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give a note a color"
+          }
+        }
+      }
+    },
+    "Нотуй, поки читаєш." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take notes as you read."
+          }
+        }
+      }
+    },
+    "Оберіть, як продовжити. У будь-якому разі - все відкрито." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose how to continue. Everything unlocked, either way."
+          }
+        }
+      }
+    },
+    "Обітнути" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crop"
+          }
+        }
+      }
+    },
+    "Обітнути фото" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crop photo"
+          }
+        }
+      }
+    },
+    "Обкладинка блокнота" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The notebook cover"
+          }
+        }
+      }
+    },
+    "Обрані" : {
+      "comment" : "Чіп фільтра записів рідера — обране",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorites"
+          }
+        }
+      }
+    },
+    "Обрано" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected"
+          }
+        }
+      }
+    },
+    "Обрано: %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected: %lld"
+          }
+        }
+      }
+    },
+    "Обрати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select"
+          }
+        }
+      }
+    },
+    "одна оплата" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "one payment"
+          }
+        }
+      }
+    },
+    "Одна оплата, жодних поновлень" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One payment, no renewals"
+          }
+        }
+      }
+    },
+    "Одна оплата. Без підписки й поновлень. Назавжди ваше." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One-time purchase. No subscription, no renewals. Yours for good."
+          }
+        }
+      }
+    },
+    "Окупається за %lld міс." : {
+      "comment" : "Картка lifetime: за скільки місяців підписки окупиться разова оплата; рахується з реальних цін StoreKit",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Pays for itself in %lld month"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Pays for itself in %lld months"
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Окупається за %lld місяці"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Окупається за %lld місяців"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Окупається за %lld місяць"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Окупається за %lld місяців"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Олівець фарбує виділене, камера чіпляє фото до запису, мікрофон пише голосову думку." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The pencil colors your selection, the camera attaches a photo, the microphone records a spoken thought."
+          }
+        }
+      }
+    },
+    "Олівець, камера, мікрофон" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pencil, camera, microphone"
+          }
+        }
+      }
+    },
+    "Оновлено · %@" : {
+      "comment" : "Мета-рядок нотатки: коли востаннє змінено",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updated · %@"
+          }
+        }
+      }
+    },
+    "Ось вона. Завжди тут." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There it is. Always here."
+          }
+        }
+      }
+    },
+    "очистити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "clear"
+          }
+        }
+      }
+    },
+    "палітра" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "palette"
+          }
+        }
+      }
+    },
+    "Панель з'являється, коли курсор біля краю екрана" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The panel appears when the cursor nears the edge of the screen"
+          }
+        }
+      }
+    },
+    "Панель закріплена" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panel is pinned"
+          }
+        }
+      }
+    },
+    "Панель зліва - скоро" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panel on the left - coming soon"
+          }
+        }
+      }
+    },
+    "Панель поруч" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The panel is right here"
+          }
+        }
+      }
+    },
+    "Панель тягнеться за лівий край" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The panel resizes by its left edge"
+          }
+        }
+      }
+    },
+    "Папки:" : {
+      "comment" : "Курсивний початок пункту в навчальній нотатці",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folders:"
+          }
+        }
+      }
+    },
+    "Папки: кнопка «Папки» зверху." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folders: the \"Folders\" button on top."
+          }
+        }
+      }
+    },
+    "Папку видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folder deleted"
+          }
+        }
+      }
+    },
+    "Папку і блокноти видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folder and notebooks deleted"
+          }
+        }
+      }
+    },
+    "Папку і нотатки видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folder and notes deleted"
+          }
+        }
+      }
+    },
+    "Перевірка орфографії" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spell checking"
+          }
+        }
+      }
+    },
+    "Перезапустити зараз" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart now"
+          }
+        }
+      }
+    },
+    "перо підсвічує виділений текст" : {
+      "comment" : "Слова, підсвічені жовтим у навчальному блокноті",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "the pen highlights selected text"
+          }
+        }
+      }
+    },
+    "Перші 14 днів безкоштовно. Далі: як підтримати" : {
+      "comment" : "Рядок наприкінці онбордингу, відкриває пейвол",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your first 14 days are free. After that: how to support"
+          }
+        }
+      }
+    },
+    "Питання" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Question"
+          }
+        }
+      }
+    },
+    "Питання та Інсайт у типах запису" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Question and Insight in the entry types"
+          }
+        }
+      }
+    },
+    "Підказка: " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tip: "
+          }
+        }
+      }
+    },
+    "Підкреслювати помилки під час набору" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Underline mistakes as you type"
+          }
+        }
+      }
+    },
+    "Пізніше" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Later"
+          }
+        }
+      }
+    },
+    "Пін:" : {
+      "comment" : "Курсивний початок пункту в навчальній нотатці",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin:"
+          }
+        }
+      }
+    },
+    "Пін: закріпити важливу нотатку зверху." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin: keep an important note at the top."
+          }
+        }
+      }
+    },
+    "Подій немає." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No events."
+          }
+        }
+      }
+    },
+    "Поділитися стіною «%@»" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share the “%@” wall"
+          }
+        }
+      }
+    },
+    "Подію видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Event deleted"
+          }
+        }
+      }
+    },
+    "Подія" : {
+      "comment" : "Назва події за замовчуванням у таймлайні Home",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Event"
+          }
+        }
+      }
+    },
+    "Позначити виконаним" : {
+      "comment" : "Кнопка на сповіщенні про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mark as done"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Позначити виконаним"
+          }
+        }
+      }
+    },
+    "Покажи мені" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show me"
+          }
+        }
+      }
+    },
+    "Показати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show"
+          }
+        }
+      }
+    },
+    "Показати знайомство знову" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show the intro again"
+          }
+        }
+      }
+    },
+    "Показувати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show"
+          }
+        }
+      }
+    },
+    "Показувати «Оновлено · дата · папка»" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show “Updated · date · folder”"
+          }
+        }
+      }
+    },
+    "Показувати виконані на стіні" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show finished ones on the wall"
+          }
+        }
+      }
+    },
+    "Показувати тиждень" : {
+      "comment" : "Перемикач в App Settings: тижнева смужка внизу панелі (H2)",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show week"
+          }
+        }
+      }
+    },
+    "Поки ви вирішуєте, все записане відкрите: читати, копіювати, видаляти. Нові записи чекають на план." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "While you decide, everything you wrote stays open: read, copy, delete. New entries wait for a plan."
+          }
+        }
+      }
+    },
+    "Поки закритий, панель не ховається, коли ведеш мишу геть." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "While it's closed, the panel stays put when your mouse leaves."
+          }
+        }
+      }
+    },
+    "Поки порожньо." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty for now."
+          }
+        }
+      }
+    },
+    "Покупок для цього Apple ID не знайдено" : {
+      "comment" : "Тост у пейволі: Restore відповів, але purchases немає",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No purchases found for this Apple ID"
+          }
+        }
+      }
+    },
+    "Поновлюється щомісяця, скасувати можна в налаштуваннях App Store" : {
+      "comment" : "Дрібний рядок у місячній картці пейвола під «Скасувати можна будь-коли»",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renews monthly, cancel in App Store settings"
+          }
+        }
+      }
+    },
+    "Порядок стін" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wall order"
+          }
+        }
+      }
+    },
+    "Посилання і зміна фото під шапкою" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The link and photo swap under the header"
+          }
+        }
+      }
+    },
+    "Потягни по таймлайну" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag along the timeline"
+          }
+        }
+      }
+    },
+    "Потягни стіну на нове місце" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag a wall to a new place"
+          }
+        }
+      }
+    },
+    "почни писати назву…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "start typing a title…"
+          }
+        }
+      }
+    },
+    "Почнімо" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let's begin"
+          }
+        }
+      }
+    },
+    "Почніть писати…" : {
+      "comment" : "Плейсхолдер порожнього тіла нотатки",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start writing…"
+          }
+        }
+      }
+    },
+    "Прибрати дедлайн" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear the deadline"
+          }
+        }
+      }
+    },
+    "Прибрати емоджі" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove emoji"
+          }
+        }
+      }
+    },
+    "Прибрати з обраних" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove from favorites"
+          }
+        }
+      }
+    },
+    "Прибрати навчальні стіки?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove the learning stickies?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прибрати навчальні стіки?"
+          }
+        }
+      }
+    },
+    "Прибрати фото обкладинки?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove the cover photo?"
+          }
+        }
+      }
+    },
+    "Приватність" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        }
+      }
+    },
+    "Причепи смайлик у відкритому стіку, і в налаштуваннях стіни зʼявиться фільтр по ньому." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attach an emoji in an open sticky and the wall settings gain a filter for it."
+          }
+        }
+      }
+    },
+    "Пробний період завершився" : {
+      "comment" : "Картка Embar Pro в налаштуваннях: trial минув",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your free trial has ended"
+          }
+        }
+      }
+    },
+    "Продовжити" : {
+      "comment" : "Кнопка на екрані подяки: закриває вікно пейвола",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "Продовжити за %@/міс" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue for %@ / month"
+          }
+        }
+      }
+    },
+    "Пропустити знайомство" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip the intro"
+          }
+        }
+      }
+    },
+    "Просторий" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roomy"
+          }
+        }
+      }
+    },
+    "протягни, щоб продовжити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "slide to continue"
+          }
+        }
+      }
+    },
+    "Прочитано - прибрати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Read them - remove"
+          }
+        }
+      }
+    },
+    "Раз на місяць - головне, без шуму." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Once a month - what matters, no noise."
+          }
+        }
+      }
+    },
+    "Разом зі стіками" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wall and stickies"
+          }
+        }
+      }
+    },
+    "Разом із блокнотами" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folder and notebooks"
+          }
+        }
+      }
+    },
+    "Разом із нотатками" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folder and notes"
+          }
+        }
+      }
+    },
+    "Редагування" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editing"
+          }
+        }
+      }
+    },
+    "Редагувати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "Режим читання: пробний період завершився" : {
+      "comment" : "Тост при спробі створити нове після trial",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Read-only: your free trial has ended"
+          }
+        }
+      }
+    },
+    "Рідер" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reader"
+          }
+        }
+      }
+    },
+    "Різнокольорові" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mixed colors"
+          }
+        }
+      }
+    },
+    "Різнокольорові чи один колір на стіну - перемикач у загальних налаштуваннях стіків, там же архів і показ виконаних." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multicolored or one color per wall - the switch is in the general sticky settings, along with the archive and showing done ones."
+          }
+        }
+      }
+    },
+    "РОЗКЛАД ДНЯ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "THE DAY"
+          }
+        }
+      }
+    },
+    "Розмір тексту" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text size"
+          }
+        }
+      }
+    },
+    "Розміщення закладки" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Where the tab sits"
+          }
+        }
+      }
+    },
+    "Рядок джерела" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Source line"
+          }
+        }
+      }
+    },
+    "Свій колір у стіни" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One color per wall"
+          }
+        }
+      }
+    },
+    "Свій шорткат виклику" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your own shortcut"
+          }
+        }
+      }
+    },
+    "Світле скло" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light glass"
+          }
+        }
+      }
+    },
+    "Серденько на записі кладе його в обране. Кнопка з документом перетворює запис на нотатку. А хештег у тексті стає тегом #embar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The heart on an entry saves it to favorites. The document button turns an entry into a note. And writing a hashtag creates tags #embar"
+          }
+        }
+      }
+    },
+    "Середній" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium"
+          }
+        }
+      }
+    },
+    "Скасовано: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undone: %@"
+          }
+        }
+      }
+    },
+    "Скасувати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "Скасувати видалене" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo a delete"
+          }
+        }
+      }
+    },
+    "Скасувати можна будь-коли" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel anytime"
+          }
+        }
+      }
+    },
+    "Скло" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glass"
+          }
+        }
+      }
+    },
+    "Скоро" : {
+      "comment" : "Пігулка на картці Community в налаштуваннях: лінків спільноти ще немає",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coming soon"
+          }
+        }
+      }
+    },
+    "слухаю…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "listening…"
+          }
+        }
+      }
+    },
+    "Смужка з днями тижня внизу панелі" : {
+      "comment" : "Опис перемикача «Показувати тиждень» (H2)",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The strip with weekdays at the bottom of the panel"
+          }
+        }
+      }
+    },
+    "Спільна стіна" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shared wall"
+          }
+        }
+      }
+    },
+    "Спільні стіни - скоро" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shared walls - coming soon"
+          }
+        }
+      }
+    },
+    "Спільнота людей які цінують тишу, ритуал, і добре записану думку. Ділимось трюками, новими ідеями, цікавими use-case'ами." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A community of people who value quiet, ritual, and a well-written thought. We share tricks, new ideas, and ways of working we like."
+          }
+        }
+      }
+    },
+    "Справа" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Right"
+          }
+        }
+      }
+    },
+    "Спробувати ще раз" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try again"
+          }
+        }
+      }
+    },
+    "Стають кольоровими пігулками, і по них можна фільтрувати стрічку." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "They turn into colored pills you can filter the feed by."
+          }
+        }
+      }
+    },
+    "Створено нотатку з цитатою" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note created from the quote"
+          }
+        }
+      }
+    },
+    "Створи перший блокнот, щоб нічого не забути." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create your first notebook so nothing slips away."
+          }
+        }
+      }
+    },
+    "Створюйте без обмежень: стіки, нотатки, блокноти" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create without limits: stickies, notes, notebooks"
+          }
+        }
+      }
+    },
+    "Стиль" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Style"
+          }
+        }
+      }
+    },
+    "Стік" : {
+      "comment" : "Заголовок сповіщення, коли стік без тексту",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticky"
+          }
+        }
+      }
+    },
+    "Стік видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sticky deleted"
+          }
+        }
+      }
+    },
+    "Стік стає нотаткою" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A sticky becomes a note"
+          }
+        }
+      }
+    },
+    "Стік теж вміє ставати нотаткою: кнопка з документом у відкритому стіку." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A sticky can become a note too: the document button inside an open sticky."
+          }
+        }
+      }
+    },
+    "Стіки" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stickies"
+          }
+        }
+      }
+    },
+    "Стіна" : {
+      "comment" : "Чіп у розгорнутому стіку, коли стіну не обрано",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wall"
+          }
+        }
+      }
+    },
+    "Стіну видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wall deleted"
+          }
+        }
+      }
+    },
+    "Стіну і стіки видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wall and stickies deleted"
+          }
+        }
+      }
+    },
+    "Строк - у загальних налаштуваннях стіків: тиждень, місяць або три." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The term lives in general sticky settings: a week, a month or three."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Строк - у загальних налаштуваннях стіків: тиждень, місяць або три."
+          }
+        }
+      }
+    },
+    "Сховати тулбар, лише текст" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide the toolbar, just the text"
+          }
+        }
+      }
+    },
+    "сьогодні" : {
+      "comment" : "Дата-роздільник у стрічці рідера",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "today"
+          }
+        }
+      }
+    },
+    "Сьогодні" : {
+      "comment" : "Чіп фільтра стіків\nШвидкий вибір дедлайну стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "сьогодні, %@" : {
+      "comment" : "Мета-рядок нотатки: сьогодні о вказаній годині",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "today, %@"
+          }
+        }
+      }
+    },
+    "Сюди переїжджають виконані стіки, коли минає їхній строк. Тут вони залишаються на 30 днів, а потім зникають." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done stickies move here when their time is up. They stay for 30 days, then disappear."
+          }
+        }
+      }
+    },
+    "Так створюється подія. За її край міняється тривалість, за середину - час." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's how an event is made. Its edge changes the duration, its middle moves the time."
+          }
+        }
+      }
+    },
+    "Так, прибрати" : {
+      "comment" : "Тултип на виборі «прибрати навчальні стіки»",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yes, clear them"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Так, прибрати"
+          }
+        }
+      }
+    },
+    "Тап по тексту - і можна переписати. Теки перемикаються крапками над карткою." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the text and rewrite it. Folders switch with the dots above the card."
+          }
+        }
+      }
+    },
+    "Твоє імʼя" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your name"
+          }
+        }
+      }
+    },
+    "Теги · %lld ▾" : {
+      "comment" : "Чіп фільтра за тегами зі скільки обрано",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tags · %lld ▾"
+          }
+        }
+      }
+    },
+    "Теги ▾" : {
+      "comment" : "Чіп-дропдаун фільтра за тегами",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tags ▾"
+          }
+        }
+      }
+    },
+    "Текст, вигляд і режим редагування" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text, look and editing mode"
+          }
+        }
+      }
+    },
+    "Тема" : {
+      "comment" : "Кнопка початку нової теми в композері рідера",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thread"
+          }
+        }
+      }
+    },
+    "Теми" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Threads"
+          }
+        }
+      }
+    },
+    "Темна тема - скоро" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark mode - coming soon"
+          }
+        }
+      }
+    },
+    "Темне скло" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark glass"
+          }
+        }
+      }
+    },
+    "Теплий" : {
+      "comment" : "Назва фону панелі",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warm"
+          }
+        }
+      }
+    },
+    "Тиждень угорі перемикає день" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The week strip switches the day"
+          }
+        }
+      }
+    },
+    "Тонкі налаштування записів рідера" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fine-tuning for reader entries"
+          }
+        }
+      }
+    },
+    "Три дні назад і три вперед. Минуле лише читається, майбутнє можна планувати." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three days back, three ahead. The past is read-only, the future is yours to plan."
+          }
+        }
+      }
+    },
+    "Три коротких кроки - як викликати панель і з чого почати" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three short steps - how to summon the panel and where to start"
+          }
+        }
+      }
+    },
+    "Трюки, які легко не помітити" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tricks that are easy to miss"
+          }
+        }
+      }
+    },
+    "Тудушка редагується тапом" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap a to-do to edit it"
+          }
+        }
+      }
+    },
+    "Тудушки" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To-dos"
+          }
+        }
+      }
+    },
+    "Тудушку видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To-do deleted"
+          }
+        }
+      }
+    },
+    "Туман" : {
+      "comment" : "Назва фону панелі",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mist"
+          }
+        }
+      }
+    },
+    "Тут зʼявлятиметься зроблене." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done things will show up here."
+          }
+        }
+      }
+    },
+    "Тут зʼявлятимуться виконані звички." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed habits will show up here."
+          }
+        }
+      }
+    },
+    "Тут згадується" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mentioned in"
+          }
+        }
+      }
+    },
+    "ТУТ ЗГАДУЄТЬСЯ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MENTIONED IN"
+          }
+        }
+      }
+    },
+    "Тут можна дописати деталі до заголовка.\nЧіпи на картці: Дедлайн (усередині календар і нагадування) і Стіна (моя папка).\nПанель під карткою: пін закріплює зверху, смайлик чіпляє емоджі-тег, документ перетворює мене на нотатку, смітник видаляє.\nКоли стік позначений як виконаний, він піде в архів (строк можна змінити у налаштуваннях)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add details to the title here.\nChips on the card: Deadline (calendar and reminder live inside) and Wall (my folder).\nThe bar below the card: the pin keeps me on top, the smiley adds an emoji tag, the document turns me into a note, the bin deletes me.\nWhen the sticky is marked as done, it will move to the archive (the term can be changed in settings)."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тут можна дописати деталі до заголовка.\nЧіпи на картці: Дедлайн (усередині календар і нагадування) і Стіна (моя папка).\nПанель під карткою: пін закріплює зверху, смайлик чіпляє емоджі-тег, документ перетворює мене на нотатку, смітник видаляє.\nКоли стік позначений як виконаний, він піде в архів (строк можна змінити у налаштуваннях)."
+          }
+        }
+      }
+    },
+    "Тут нічого немає." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing here."
+          }
+        }
+      }
+    },
+    "У блокноті Рідера - ⌘Z, до 30 кроків. Деінде - кнопка «Скасувати» в тості, поки він не зник." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inside a Reader notebook - ⌘Z, up to 30 steps. Elsewhere - the \"Undo\" button in the toast, while it is still there."
+          }
+        }
+      }
+    },
+    "У дедлайні є «Нагадати»: у момент, за 5 чи 30 хвилин, за годину або за день." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inside a deadline there's Remind: at the deadline, 5 or 30 minutes, an hour or a day before."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У дедлайні є «Нагадати»: у момент, за 5 чи 30 хвилин, за годину або за день."
+          }
+        }
+      }
+    },
+    "У момент" : {
+      "comment" : "Коли нагадати про дедлайн стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the deadline"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У момент"
+          }
+        }
+      }
+    },
+    "У навчальних стіках зібрано найкорисніше про Embar. Якщо знадобиться - усе це є в Налаштуваннях, у Hidden Gems." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The learning stickies hold the most useful things about Embar. If you ever need them again, they're all in Settings, under Hidden Gems."
+          }
+        }
+      }
+    },
+    "У нотатку" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To a note"
+          }
+        }
+      }
+    },
+    "У цій папці порожньо." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This folder is empty."
+          }
+        }
+      }
+    },
+    "Увімкни - і все нове лягає під його заголовок. Тап по назві продовжує тему пізніше, подвійний тап по трикутнику згортає всі теми блокнота." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn it on and everything new lands under its heading. Tap the name to pick it up later; double-tap the triangle to collapse every thread."
+          }
+        }
+      }
+    },
+    "Уже прочитано?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already read them?"
+          }
+        }
+      }
+    },
+    "Українська" : {
+      "shouldTranslate" : false
+    },
+    "Умови користування" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms of Use"
+          }
+        }
+      }
+    },
+    "Усе з місячного, назавжди" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Everything in Monthly, forever"
+          }
+        }
+      }
+    },
+    "Усі майбутні функції включено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All future features included"
+          }
+        }
+      }
+    },
+    "Фільтри, кольори і поведінка стікерів" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filters, colors and how stickies behave"
+          }
+        }
+      }
+    },
+    "Фокус-режим" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus mode"
+          }
+        }
+      }
+    },
+    "Фото видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photo deleted"
+          }
+        }
+      }
+    },
+    "Фото зверху блокнота, а під ним - посилання на джерело, до якого ведеш нотатки." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A photo on top of the notebook, and under it the link to the source you're taking notes on."
+          }
+        }
+      }
+    },
+    "Фото:" : {
+      "comment" : "Курсивний початок пункту в навчальній нотатці",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photos:"
+          }
+        }
+      }
+    },
+    "Фото: прикріплюй прямо в текст." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photos: attach them right into the text."
+          }
+        }
+      }
+    },
+    "Хештеги" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hashtags"
+          }
+        }
+      }
+    },
+    "Це запис-думка. Пиши сюди все, що спадає на думку, поки читаєш чи дивишся щось." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is a thought entry. Write down whatever comes to mind while you read or watch something."
+          }
+        }
+      }
+    },
+    "Це нотатка" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is a note"
+          }
+        }
+      }
+    },
+    "Це стік. Пиши сюди будь-що, щоб не загубити." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is a sticky. Write anything here so it doesn't get lost."
+          }
+        }
+      }
+    },
+    "Цей блокнот уже видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That notebook is already gone"
+          }
+        }
+      }
+    },
+    "Цей запис уже видалено" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That entry is already gone"
+          }
+        }
+      }
+    },
+    "Цей тиждень" : {
+      "comment" : "Швидкий вибір дедлайну стіка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This week"
+          }
+        }
+      }
+    },
+    "Цей час уже минув" : {
+      "comment" : "Червона пігулка: спроба поставити дедлайн/нагадування в минуле",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That time has already passed"
+          }
+        }
+      }
+    },
+    "Цитата" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quote"
+          }
+        }
+      }
+    },
+    "Цитати" : {
+      "comment" : "Чіп фільтра типів записів рідера",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quotes"
+          }
+        }
+      }
+    },
+    "Цитати: виділяються рискою зліва, гарно тримають чуже слово." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quotes: marked with a line on the left, they hold someone else's words well."
+          }
+        }
+      }
+    },
+    "Ця нотатка ніде не згадується. (Напиши [[ в нотатці, щоб зробити звʼязок.)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This note isn't mentioned anywhere. (Type [[ in a note to create a link.)"
+          }
+        }
+      }
+    },
+    "Шавлія" : {
+      "comment" : "Назва фону панелі",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sage"
+          }
+        }
+      }
+    },
+    "Швидка думка…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A quick thought…"
+          }
+        }
+      }
+    },
+    "Швидкий виклик панелі з клавіатури" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call the panel up from the keyboard"
+          }
+        }
+      }
+    },
+    "Шестерня всередині нотатки" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The gear inside a note"
+          }
+        }
+      }
+    },
+    "Шрифт" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typeface"
+          }
+        }
+      }
+    },
+    "Шрифт записів" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entry typeface"
+          }
+        }
+      }
+    },
+    "Шрифт застосунку - скоро" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App font - coming soon"
+          }
+        }
+      }
+    },
+    "Шрифт, розмір, інтервал і фокус-режим - окремо для кожної нотатки." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typeface, size, spacing and focus mode - separately for every note."
+          }
+        }
+      }
+    },
+    "Щільний" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tight"
+          }
+        }
+      }
+    },
+    "Що думаєш…" : {
+      "comment" : "Плейсхолдер композера рідера — думка",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What are you thinking…"
+          }
+        }
+      }
+    },
+    "Що зачепило, що незрозуміло…" : {
+      "comment" : "Плейсхолдер композера рідера — питання",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What caught you, what puzzled you…"
+          }
+        }
+      }
+    },
+    "Що тут є:" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's here:"
+          }
+        }
+      }
+    },
+    "Що тут ще є.\n\nУ полі вводу зверху: перо підсвічує виділений текст, камера чіпляє фото до запису, мікрофон записує голосову думку.\n\nПоруч - тип запису: Думка чи Цитата. Питання та Інсайт можна ввімкнути в налаштуваннях." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What else is here.\n\nIn the input field above: the pen highlights selected text, the camera attaches a photo to an entry, the microphone records a spoken thought.\n\nNext to them is the entry type: Thought or Quote. You can switch on Question and Insight in the settings."
+          }
+        }
+      }
+    },
+    "Що цікавого з джерела…" : {
+      "comment" : "Плейсхолдер композера рідера — цитата",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something good from the source…"
+          }
+        }
+      }
+    },
+    "Щоб бачити текст нагадування прямо в банері, увімкни попередній перегляд і стиль «Нагадування» в системних параметрах." : {
+      "comment" : "Підказка: превʼю і стиль банера — системні налаштування, не наші",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To see the reminder text right in the banner, turn on previews and the “Alerts” style in System Settings."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щоб бачити текст нагадування прямо в банері, увімкни попередній перегляд і стиль «Нагадування» в системних параметрах."
+          }
+        }
+      }
+    },
+    "Щоб нагадати, Embar потрібен дозвіл на сповіщення" : {
+      "comment" : "Тост, коли нагадування не вмикається: сповіщення відхилені (F6)",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Embar needs notification permission to remind you"
+          }
+        }
+      }
+    },
+    "Щоденні обговорення, питання, ідеї." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily conversation, questions, ideas."
+          }
+        }
+      }
+    },
+    "щойно" : {
+      "comment" : "Мета-рядок нотатки: змінено щойно",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "just now"
+          }
+        }
+      }
+    },
+    "Щомісяця" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monthly"
+          }
+        }
+      }
+    },
+    "Щоночі опівночі відмітки оновлюються, а стрік 🔥 рахує, скільки днів поспіль ти тримаєшся." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every night at midnight the checkmarks reset, and the streak 🔥 counts how many days in a row you’ve kept it up."
+          }
+        }
+      }
+    },
+    "Щось затягнулось. Спробувати ще раз?" : {
+      "comment" : "Вихід після 30 с очікування покупки",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is taking a while. Try again?"
+          }
+        }
+      }
+    },
+    "Як до тебе звертатися?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What should we call you?"
+          }
+        }
+      }
+    },
+    "Як працює Рідер" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How Reader works"
+          }
+        }
+      }
+    },
+    "Як у системі" : {
+      "comment" : "Пункт вибору мови — без власного override",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Match system"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

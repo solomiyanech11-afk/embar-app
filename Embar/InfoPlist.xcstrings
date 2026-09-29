@@ -1,0 +1,48 @@
+{
+  "sourceLanguage" : "uk",
+  "strings" : {
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Embar"
+          }
+        }
+      }
+    },
+    "NSHumanReadableCopyright" : {
+      "comment" : "Copyright (human-readable)",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "© 2026 Solomiia Nechai"
+          }
+        }
+      }
+    },
+    "NSMicrophoneUsageDescription" : {
+      "comment" : "Питається при першому голосовому записі в Рідері (SPEC §12 — дозволи лениво).",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Used for voice notes in Reader, so you can capture a thought out loud while reading. Recording starts only when you press record, and audio stays on your Mac."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потрібен для голосових нотаток у Рідері, щоб думку можна було сказати вголос просто під час читання. Запис починається лише тоді, коли ти натискаєш кнопку запису, а аудіо лишається на твоєму Mac."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

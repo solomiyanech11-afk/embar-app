@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Xcode — особисті файли користувача
+xcuserdata/
+*.xcuserstate
+
+# Білд-артефакти
+DerivedData/
+build/
+
+# Локальний стан інструментів
+.claude/
